@@ -1,0 +1,9 @@
+Dataset: gulfport
+Model: SA_MSNet
+OPBS selected bands: 64
+Spectral attention reduction: 8
+RX AUC: 0.952589
+SA-MSNet+SeT AUC: 0.988587
+Best AUC in history: 0.989182
+Best Iteration: 4
+Best Epoch: 600
